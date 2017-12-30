@@ -17,9 +17,9 @@ just enjoy!
 ![원본이미지](./qr.png)
 
 4. QR코드를 스캔해보면 다음과 같은 링크를 얻을수잇다 
-![QR스캔](./result.png)
+![QR스캔](./result.PNG)
 
 5. http://wargame.kr:8080/qr_code_puzzle/Give_M3_th7_F1aG.php
-![정답](./answer.png)
+![정답](./answer.PNG)
 
 6. Flag: 6313fa4a0674a30804bfc2ff512a0a0518479b6c
